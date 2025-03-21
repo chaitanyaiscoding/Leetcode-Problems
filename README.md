@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
@@ -80,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
