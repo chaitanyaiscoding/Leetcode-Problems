@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
