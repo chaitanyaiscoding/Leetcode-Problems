@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Binary Search
 |  |
 | ------- |
