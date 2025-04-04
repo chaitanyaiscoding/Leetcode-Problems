@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
