@@ -3,31 +3,28 @@ class Solution {
     {
         if(k==0)return true;
 
-        if(idx>=nums.length){
-            return false;
-        }
-
-        if(dp[idx][k]!=null)return dp[idx][k];
+        if(idx>=nums.length)return false;
+        if(dp[idx][k]!=null)
+        return dp[idx][k];
         boolean take=false;
 
-        if(k>=nums[idx])
-        {
-            take=solve(nums,idx+1,k-nums[idx],dp);
-        }
-        boolean not_take=solve(nums,idx+1,k,dp);
+        if(nums[idx]<=k)
+        take=solve(nums,idx+1,k-nums[idx],dp);
 
-        dp[idx][k]=take||not_take;
-
+        boolean nt = solve(nums,idx+1,k,dp);
+        dp[idx][k]=take||nt;
         return dp[idx][k];
     }
     public boolean canPartition(int[] nums) {
         int sum=0;
-        for(int x:nums)sum=sum+x;
-        
+        for(int i:nums)sum+=i;
         if(sum%2!=0)return false;
-        int k=sum/2;
-        Boolean[][] dp=new Boolean[nums.length+1][k+1];
-        if(solve(nums,0,sum/2,dp))return true;
+        int half=sum/2;
+        Boolean[][] dp=new Boolean[nums.length+1][half+1];
+        //we need to check whether we have a subset with sum half
+
+        if(solve(nums,0,half,dp))
+        return true;
         return false;
     }
 }
