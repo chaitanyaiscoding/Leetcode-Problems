@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [2050-count-good-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 ## Memoization
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
