@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1656-count-good-triplets](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
