@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [2050-count-good-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2050-count-good-numbers) |
@@ -166,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [2050-count-good-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
