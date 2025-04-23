@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [1500-count-largest-group](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
