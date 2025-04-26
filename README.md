@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1036-rotting-oranges) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
 ## Matrix
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
 ## Depth-First Search
 |  |
