@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1036-rotting-oranges) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2262-solving-questions-with-brainpower](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Counting
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
