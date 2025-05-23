@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
