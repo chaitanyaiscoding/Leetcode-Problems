@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
