@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Graph
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
