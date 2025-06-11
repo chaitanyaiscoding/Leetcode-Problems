@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
