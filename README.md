@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Memoization
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
