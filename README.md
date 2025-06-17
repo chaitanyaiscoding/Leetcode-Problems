@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
