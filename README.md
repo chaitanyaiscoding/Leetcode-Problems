@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0139-word-break) |
+| [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1500-count-largest-group) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
