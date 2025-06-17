@@ -15,10 +15,10 @@ class Solution {
         return ans;
     }
 
-    public static int solve(int[][] arr, int i, Integer[] dp) {
+    public static int solve(int[][] arr, int i, int[] dp) {
         if (i == arr.length) return 0;
 
-        if (dp[i] != null) return dp[i];
+        if (dp[i] != -1) return dp[i];
 
         // Pick the current job
         int j = bs(i + 1, arr.length - 1, arr, arr[i][1]);
@@ -42,7 +42,8 @@ class Solution {
 
         Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
 
-        Integer[] dp = new Integer[n];
+        int[] dp = new int[n];
+        Arrays.fill(dp,-1);
         return solve(arr, 0, dp);
     }
 }
