@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
