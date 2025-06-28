@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1500-count-largest-group) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0902-minimum-number-of-refueling-stops) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
