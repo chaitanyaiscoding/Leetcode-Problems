@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/2050-count-good-numbers) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanyaiscoding/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
